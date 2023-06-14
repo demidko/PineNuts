@@ -1,8 +1,12 @@
-# Application
+# Pine Nuts
 
-This is a template for a complete web application consisting of [frontend](frontend) and [backend](backend) components.
+Modeling groups of intelligent pine nuts capable of dividing, merging, migrating, and attacking each other, using satellite recognition of numerical constructs.
 
-## Build 
+## Usage
+
+The web app is available at [TODO-WEB-DOMAIN]() from any device.
+
+## Build
 
 Execute `docker build . -t app`. Your image will be located at `docker images -a`. Now you can
 run:
