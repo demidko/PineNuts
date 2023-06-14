@@ -4,7 +4,7 @@ Modeling groups of intelligent pine nuts capable of dividing, merging, migrating
 
 ## Usage
 
-The web app is available at [TODO-WEB-DOMAIN]() from any device.
+The web app is available at [web-domain.todo]() from any device.
 
 ## Build
 
